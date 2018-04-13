@@ -1,0 +1,5 @@
+Bucles 13:
+Hacer un programa que pida dos números y muestre todos los números que van desde el primero al segundo. Se debe controlar que los valores son correctos
+
+Entrada: num1, num2
+Salida: todos los numeros desde n1 a n2

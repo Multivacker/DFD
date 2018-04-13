@@ -1,0 +1,5 @@
+Bucles 7:
+determinar si un número ingresado es primo o no.
+
+entrada=Numero
+salida= Si es primo o no.

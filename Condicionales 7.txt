@@ -1,0 +1,6 @@
+Condicionales 7:
+ingresar el nombre y el signo de la persona e imprima solo si la persona es de Aries
+
+Entrada= Nombre, Signo
+
+Salida= nombre, Aries

@@ -1,0 +1,4 @@
+Condicionales 2:
+Mostrar el resultado de la suma de dos números, si esta supera a 10
+
+a+b>10

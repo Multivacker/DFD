@@ -1,0 +1,2 @@
+Bucles 12:
+Hacer un programa que imprima la suma de todos los números impares que hay desde n hasta m, y diga cuantos números hay (Propuesto). 

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+nom
+2
+''
+5
+signo
+2
+''
+4
+1
+19
+'Ingrese su nombre'
+5
+1
+3
+nom
+4
+1
+18
+'Ingrese su signo'
+5
+1
+5
+signo
+7
+0
+1
+13
+signo='aries'
+4
+1
+26
+'esta persona no es aries'
+13
+4
+1
+40
+'nombre:', nom, '. Su signo es: ', signo
+13
+1

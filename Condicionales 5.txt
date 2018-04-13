@@ -1,0 +1,6 @@
+Condicionales 5:
+ingrese 2 números desde el teclado e imprima solo los números positivos
+
+Entrada= nro1, nro2
+
+Salido= solo números positivos

@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+nota1
+1
+0
+5
+nota2
+1
+0
+5
+nota3
+1
+0
+4
+1
+24
+'Ingrese las tres notas'
+5
+1
+19
+nota1, nota2, nota3
+6
+1
+8
+promedio
+21
+(nota1+nota2+nota3)/3
+7
+0
+1
+14
+promedio>=10.5
+4
+1
+35
+'Estás desaprobado con: ', promedio
+13
+4
+1
+32
+'Estás aprobado con: ', promedio
+13
+1

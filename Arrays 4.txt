@@ -1,0 +1,2 @@
+Arrays 4:
+Hacer un programa que rellene un array con los números impares comprendidos entre 1 y 20 y los muestre en pantalla en orden descendente. (Propuesto)

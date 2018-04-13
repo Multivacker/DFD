@@ -1,0 +1,5 @@
+Bucles 8:
+Factorial de un número.
+
+Entrada= numero
+Salida= factorial

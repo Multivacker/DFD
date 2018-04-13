@@ -1,0 +1,23 @@
+Condicionales 21:
+Hacer un programa que lea una hora en hora:minutos:segundos y diga la hora que es un segundo después.
+
+Entrada= Hs:min:seg
+
+Salida= Hs:min:seg+1
+
+minutos>59
+minutos=0
+
+horas>23
+horas=0
+
+seg>59
+seh=0
+minutos= minutos+1
+
+   min>59
+   min=0
+   hs=hs+1
+        
+        hs>23
+        hs=0

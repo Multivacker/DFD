@@ -1,0 +1,7 @@
+Condicionales 16:
+
+Una casa de motos tiene promoción de fin de año. Las motos marca Honda tienen un descuento del 5%, las Yamaha del 8%, y las Suzuki del 10%, las otras marcas 2%.
+
+Entrada: marca de la moto y modelo
+
+Salida: muestra modelo, precio y precio con descuento.

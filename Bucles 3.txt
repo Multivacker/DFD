@@ -1,0 +1,6 @@
+Bucles 3:
+Múltiplos de 3 desde 1 hasta n
+
+Entrada= número
+
+Salisa= Todos los múltiplos de tres comprendidos entre 1 y n

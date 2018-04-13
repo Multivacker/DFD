@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+11
+cantllantas
+1
+0
+4
+1
+42
+'Ingrese la cantidad de llantas compradas'
+5
+1
+11
+cantllantas
+7
+0
+1
+13
+cantllantas<5
+6
+1
+9
+preciofin
+15
+cantllantas*700
+13
+6
+1
+9
+preciofin
+15
+cantllantas*800
+13
+4
+1
+37
+'El precio final es de: $', preciofin
+1

@@ -1,0 +1,14 @@
+Bucles 5:
+
+sumar 1-2+3-4....
+
+Entrada= número
+Salida= suma
+
+numeros pares: negativos
+numeros impares: positivos
+
+suma: 1+3+5+7+9.....
+suma1= -2-4-6-8--10....
+
+sumaTotal= suma+suma1

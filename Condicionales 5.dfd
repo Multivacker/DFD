@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+nro1
+1
+0
+4
+nro2
+1
+0
+4
+1
+23
+'ingrese los 2 números'
+5
+1
+10
+nro1, nro2
+7
+0
+1
+17
+nro1>0 and nro2>0
+7
+0
+1
+17
+nro1<0 and nro2<0
+7
+0
+1
+6
+nro1>0
+4
+1
+4
+nro2
+13
+4
+1
+4
+nro1
+13
+13
+4
+1
+26
+'No hay números positivos'
+13
+13
+4
+1
+16
+nro1, ',' , nro2
+13
+1

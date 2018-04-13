@@ -1,0 +1,6 @@
+Condicionales 14:
+Hacer unprograma que lea 2 números, y los imprima en forma ascendente.
+
+Entrada: num1 y num2
+
+Salida: forma ascendente

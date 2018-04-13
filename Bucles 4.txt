@@ -1,0 +1,6 @@
+Bucles 4:
+Múltiplos de 5 desde 1 hasta n (Propuesto)
+
+nro mod 5 = 0
+
+'El número ', nro, ' Es múltiplo de 5.'

@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+n1
+1
+0
+2
+n2
+1
+0
+2
+n3
+1
+0
+4
+1
+19
+'Ingrese 3 valores'
+5
+1
+8
+n1,n2,n3
+7
+0
+1
+5
+n2<n1
+7
+0
+1
+5
+n3<n2
+4
+1
+46
+'Los números se ingresaron de forma creciente'
+13
+4
+1
+49
+'Los números no se ingresaron de forma creciente'
+13
+13
+4
+1
+49
+'Los números no se ingresaron de forma creciente'
+13
+1

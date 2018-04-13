@@ -1,0 +1,2 @@
+Condicionales 8:
+Ingresar el nombre, la eddad y el sexo de la persona e imprima, sólo si es mayor de edad de sexo masculino, el nombre de la persona

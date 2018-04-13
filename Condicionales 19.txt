@@ -1,0 +1,6 @@
+Condicionales 19:
+Hacer un programa que pida tres números e indicar si el tercero es igual a la suma del primero y el segundo.
+
+Entrada: n1,n1,n3
+
+Salida: Si n1+n2=n3 o no.

@@ -1,0 +1,2 @@
+Bucles 14:
+Hacer un programa que pida dos números y sume todos los números que van desde el primero al segundo. Se debe controlar que los valores son correctos. (Propuesto).

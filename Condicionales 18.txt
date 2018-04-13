@@ -1,0 +1,6 @@
+Condicionales 18:
+Hacer un programa que pida tres números y detecte si se han introducido en orden creciente. (Propuesto)
+
+Entrada; nro1, nro2, nro3
+
+Salida: decir si los números se ingresaron de forma creciente

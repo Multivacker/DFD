@@ -1,0 +1,2 @@
+Condicionales 3:
+Determinar si en número es par, impar o cero.

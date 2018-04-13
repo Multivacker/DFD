@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+nro1
+1
+0
+4
+nro2
+1
+0
+4
+nro3
+1
+0
+4
+1
+26
+'Ingrese los tres números'
+5
+1
+16
+nro1, nro2, nro3
+7
+0
+1
+9
+nro1>nro2
+7
+0
+1
+9
+nro2>nro3
+4
+1
+39
+'El número mayor es el tercero: ', nro3
+13
+4
+1
+39
+'El número mayor es el segundo: ', nro2
+13
+13
+7
+0
+1
+9
+nro1>nro3
+13
+4
+1
+39
+'El número mayor es el primero: ', nro1
+13
+13
+1

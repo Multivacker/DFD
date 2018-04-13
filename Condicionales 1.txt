@@ -1,0 +1,6 @@
+Condicionales 1:
+Determinar si un alumno aprueba o reprueba un curso, sabiendo que aprobará si su promedio de tres notas es mayor o igual a 10.5; en caso contrario, reprueba
+
+Entrada= nota1, nota2, nota3
+
+Salida= aprobado o no

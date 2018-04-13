@@ -1,0 +1,2 @@
+Bucles 18:
+Hacer un programa que calcule la media de X números, se dejarán de solicitar números hasta que se introduzca el cero. (Propuesto)

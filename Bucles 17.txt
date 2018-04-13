@@ -1,0 +1,6 @@
+Bucles 17:
+Hacer un programa que calcule la media de números.
+
+Entrada: numero
+
+Salida: media aritmetica

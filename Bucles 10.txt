@@ -1,0 +1,13 @@
+Bucle 10:
+Serie Fibonacci 
+
+Entrada= numero de elemntos de la serie
+Salida= serie fibonacci
+
+Serie Fibonacci= 1,2,3,5,8,13,21,34,55,89......
+Algoritmo
+x=0, y=1, z=1
+
+z=x+y
+x=y
+y=z

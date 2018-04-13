@@ -1,0 +1,22 @@
+condicionales 13
+
+Resolver ecuaciones de segundo grado:
+AX^2+BX+C
+
+Entrada: 3 datos: A,B,C
+
+Salida: respuesta 1 o respuesta 2
+
+Algoritmo:
+
+F= (-B +- sqrt(B*B - 4*A*C))/2*A
+
+D= B*B - 4*A*C
+
+F= (-B +- sqrt(D))/2*A
+
+rta1: (-B + sqrt(D))/2*A
+
+rta2: (-B - sqrt(D))/2*A
+
+D<0 La ecuacion no tiene solucion real
